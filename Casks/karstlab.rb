@@ -1,6 +1,6 @@
 cask "karstlab" do
-  version "1.0.1"
-  sha256 "2ab83de419f9601f13c2dc0d3e42b653c5187956e0f7475f43ab35091b9ff383"
+  version "1.1.0"
+  sha256 "d92cb36c66232ce39fce540ca3865dcf8d2bd3f1b672ba952d10b5c6bf500c53"
 
   url "https://github.com/jeroenhonig/KarstLab/releases/download/v#{version}/KarstLab.dmg"
   name "KarstLab"
